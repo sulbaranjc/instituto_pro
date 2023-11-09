@@ -1,0 +1,12 @@
+{
+    "name": "sulbaranjc/instituto_pro",
+    "description": "CRUD ejemplo",
+    "type": "proyect",
+    "authors": [
+        {
+            "name": "Juan Carlos Sulbaran",
+            "email": "sulbaranjc@gmail.com"
+        }
+    ],
+    "require": {}
+}
